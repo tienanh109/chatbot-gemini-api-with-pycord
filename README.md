@@ -16,7 +16,7 @@ Connect with **Google Gemini** to create content!
 Based on examples from **google**, instead of using complicated ways. Below is a simple example that connects to the **Gemini API**
 
 
-First you need to import **Discord**0:
+First you need to import **Discord**:
 
 ```python
 import discord
