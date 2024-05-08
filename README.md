@@ -10,6 +10,11 @@ pip install py-cord
 ```
 
 # Tutorial: Step by step
+Create a file, for example:
+```bash
+main.py
+```
+
 Connect with **Google Gemini** to create content!
 
 
