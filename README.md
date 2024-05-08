@@ -67,7 +67,7 @@ For example:
 
 ```python
         content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
-        await message.edit(content=content)
+        await message.respond(content=content)
     else:
         await message.respond(content="Error!")
 ```
