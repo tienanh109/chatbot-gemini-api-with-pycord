@@ -41,7 +41,9 @@ API_KEY = "YOUR API KEY"
 
 Create a **slash command** and add options:
 ```python
-@bot.slash_command(name="/gemini-pro-ai", description="AI by Google!")
+bot = commands.Bot(command_prefix='/')
+
+@bot.slash_command(name="gemini-pro-ai", description="AI by Google!")
 async def ai(ctx, prompt: str):
 ```
 
