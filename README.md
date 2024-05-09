@@ -25,6 +25,7 @@ First you need to import **Discord**:
 
 ```python
 import discord
+import requests
 from discord.ext import commands
 ```
 
