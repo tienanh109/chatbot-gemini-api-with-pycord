@@ -30,7 +30,7 @@ from discord.ext import commands
 ```
 
 
-Second, you need to get the **API Key from Google**, you can [click here to get it](https://aistudio.google.com/app/prompts/new_chat/)
+Second, you need to get the **API Key from Google**, you can [click here to get it](https://aistudio.google.com/app/apikey)
 
 
 Then create a variable to store the key
