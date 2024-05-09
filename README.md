@@ -1,5 +1,8 @@
 # chatbot-gemini-api-with-pycord
 
+## Create a Discord Bot:
+uhhh, ***I'm lazy***: https://discord.dev
+
 ## Install Python:
 - I'm quite lazy :v, you can find out for yourself!
 
