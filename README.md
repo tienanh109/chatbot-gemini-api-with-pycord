@@ -83,3 +83,6 @@ bot.run("YOUR BOT TOKEN")
 
 Now enjoy :D
 You can add some mechanisms to make them more stable! Tutorial by tienanh109!
+
+
+[Source Code](https://github.com/tienanh109/chatbot-gemini-api-with-pycord/blob/main/main.py) by tienanh109
