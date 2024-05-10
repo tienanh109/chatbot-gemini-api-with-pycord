@@ -77,6 +77,7 @@ Else if different from **status code** 200 then => **Error message**
 For example:
 
 ```python
+     if response.status_code == 200:
         content = response.json()["candidates"][0]["content"]["parts"][0]["text"]
         await message.respond(content=content)
     else:
