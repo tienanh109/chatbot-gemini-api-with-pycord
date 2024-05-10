@@ -1,5 +1,10 @@
 # chatbot-gemini-api-with-pycord
 
+## Quickstart
+
+- Replit: https://replit.com/@bin10wnickvn/chatbot-gemini-api-with-pycord?s=app
+
+
 ## Create a Discord Bot:
 uhhh, ***I'm lazy***: https://discord.dev
 
